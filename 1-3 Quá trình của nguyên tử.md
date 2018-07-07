@@ -1,7 +1,7 @@
   
 
   
-![](https://www.evernote.com/shard/s450/res/31208005-c4a8-4e22-9263-976574be6a9b/Fig1-5.png)
+![alt text](https://www.evernote.com/shard/s450/res/31208005-c4a8-4e22-9263-976574be6a9b/Fig1-5.png)
 
 Hình 1-5
 
