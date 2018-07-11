@@ -1,7 +1,7 @@
   
 
   
-![](https://github.com/Physics-Host-transteam/Feynman-s-Lectures/blob/master/Fig1-5.png)
+![](https://physicshost.com/wp-content/uploads/2018/07/Fig1-5.png)
 
 $$\kern25em$$ Hình 1-5
 
@@ -13,11 +13,11 @@ $$\kern2em$$ Đây là một điều khác: Những phân tử nào rời đi? K
 
 $$\kern2em$$ Tất nhiên bạn nên nhận thấy rằng để mô tả các quy trình thì phức tạp hơn chúng tôi đã chỉ ra. Không chỉ nước đi vào không khí, mà theo thời gian, một trong các phân tử oxy hoặc nitơ sẽ đi vào và "bị lạc" trong khối lượng phân tử nước, và chuyển động theo cách của nó trong nước. Do đó không khí hòa tan trong nước; các phân tử oxy và nitơ sẽ đi vào nước và nước sẽ chứa không khí. Nếu chúng ta đột nhiên lấy không khí ra khỏi bình, thì các phân tử không khí sẽ rời nhanh hơn chúng đi vào, và làm như vậy sẽ tạo ra bong bóng. Điều này là rất xấu cho thợ lặn, như bạn có thể biết.
 
-![](https://github.com/Physics-Host-transteam/Feynman-s-Lectures/blob/master/Fig1-6.png)
+![](https://physicshost.com/wp-content/uploads/2018/07/Fig1-6.png)
 
 $$\kern25em$$ Hình 1-6
 
-![](https://github.com/Physics-Host-transteam/Feynman-s-Lectures/blob/master/Fig1-7.png)
+![](https://physicshost.com/wp-content/uploads/2018/07/Fig1-7.png)
 
 $$\kern25em$$ Hình 1-7
 
