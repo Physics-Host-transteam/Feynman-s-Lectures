@@ -1,7 +1,7 @@
 # 1-2 Vật chất được làm từ nguyên tử
 $$\kern2em$$ Nếu như, sau một cuộc đại biến động nào đó, tất cả các tri thức về khoa học bị biến mất, và chi còn lại một câu để truyền cho thế hệ sinh vật tiếp theo, thì tuyên bố nào sẽ chứa nhiều thôn tin trong ít từ nhất ? Tôi tin rằng đó là Thuyết Nguyên Tử (hay còn gọi là Sự thật về nguyên tử hay bát cứ cái tên nào bạn thích) rằng mọi thứ đều làm từ những nguyên tử - những hạt nhỏ di chuyển xung quanh trong sự chuyển động vĩnh cửu, hút những hạt khác khi ở khoảng cách gần, nhưng lại đẩy ra khi bị ép vào một hạt khác. Chỉ trong một câu đó, bạn sẽ thấy, có một lượng khổng lồ thông tin về thế giới, chỉ cần sử dụng một chút tưởng tượng và suy nghĩ.
 
-![https://physicshost.com/wp-content/uploads/2018/07/Fig1-1.png]()
+![](https://physicshost.com/wp-content/uploads/2018/07/Fig1-1.png)
 
 $$\kern20em$$ Hình 1-1
 
@@ -11,7 +11,7 @@ $$\kern2em$$ Các nguyên tử có bán kính 1 hoặc 2 × 10−8 cm. Bây gi�
 
 $$\kern2em$$ Bây giờ hãy tưởng tượng giọt nước khổng lồ này với tất cả những hạt lốm đốm này dính lại với nhau và gắn kết với nhau. Nước giữ được khối lượng của nó; nó không sụp đổ, bởi vì sự hấp dẫn của các phân tử với nhau. Nếu thả trên dốc, nơi nó có thể di chuyển từ nơi này sang nơi khác, nước sẽ tuôn chảy, nhưng nó không chỉ biến mất - mọi thứ không chỉ bay ra xa nhau — bởi vì sự hấp dẫn của phân tử. Bây giờ đại diện cho những sự rung lắc là nhiệt: khi chúng ta tăng nhiệt độ, chúng ta tăng chuyển động. Nếu chúng ta làm nóng nước, sự rung lắc tăng lên và khối lượng giữa các nguyên tử tăng lên, và nếu tiếp tục nung nóng ở đó thì thời gian khi lực kéo giữa các phân tử không đủ để giữ chúng lại với nhau thì chúng bay ra xa và tách ra khỏi nhau . Tất nhiên, đây là cách chúng ta sản xuất hơi nước ra khỏi nước - bằng cách tăng nhiệt độ; các hạt bay ra ngoài vì chuyển động tăng lên.
 
-![https://physicshost.com/wp-content/uploads/2018/07/Fig1-2.png]()
+![](https://physicshost.com/wp-content/uploads/2018/07/Fig1-2.png)
 
 $$\kern20em$$ Hình 1-2
 
@@ -19,7 +19,7 @@ $$\kern2em$$ Trong hình 1-2 chúng ta có một hình ảnh hơi nước. Hình
 
 $$\kern2em$$ Chúng ta hãy xem một số tính chất của hơi nước hoặc bất kỳ khí nào khác. Các phân tử, được tách ra từ nhau, sẽ dội ngược lại các bức tường. Hãy tưởng tượng một căn phòng với một số quả bóng tennis (một trăm hoặc nhiều hơn) nảy xung quanh trong chuyển động vĩnh cửu. Khi chúng công phá bức tường, điều này đẩy bức tường đi. (Tất nhiên chúng ta sẽ phải đẩy bức tường trở lại.) Điều này có nghĩa là khí tạo ra một sức mạnh dữ dội mà các giác quan thô ráp của chúng ta (không bị phóng đại một tỷ lần) chỉ cảm thấy như một cú đẩy bình thường. Để hạn chế khí, chúng ta phải sử dụng một áp lực. Hình 1–3 cho thấy một bình tiêu chuẩn để giữ khí (được sử dụng trong tất cả các sách giáo khoa), một hình trụ với một piston trong đó. Bây giờ, nó không tạo ra sự khác biệt nào về hình dạng của các phân tử nước, vì vậy để đơn giản chúng ta sẽ vẽ chúng như những quả bóng tennis hoặc những chấm nhỏ. Những thứ này đang chuyển động vĩnh viễn theo mọi hướng. Vì vậy, nhiều quả trong số chúng đang va chạm phía trên với piston liên tục thời gian để giữ cho chúng khỏi bị bay ra khỏi bình bằng cách đập liên tục này, chúng tôi sẽ phải giữ piston xuống bởi một lực nhất định, mà chúng ta gọi là áp suất (thực sự, áp suất tác dụng trong một diện tích gọi là lực). Rõ ràng, lực tỷ lệ thuận với diện tích, nếu chúng ta tăng diện tích nhưng giữ số lượng phân tử trên một centimét khối, chúng ta tăng số va chạm với piston tỷ lệ thuận với diện tích được tăng lên.
 
-![https://physicshost.com/wp-content/uploads/2018/07/Fig1-3.png]()
+![](https://physicshost.com/wp-content/uploads/2018/07/Fig1-3.png)
 
 $$\kern20em$$ Hình 1-3
 
@@ -29,7 +29,7 @@ $$\kern2em$$ Chúng ta cũng có thể thấy điều khác: Nếu chúng ta tă
 
 $$\kern2em$$ Chúng ta hãy xem xét một tình huống khác. Giả sử rằng piston di chuyển vào trong, để các nguyên tử được nén từ từ vào một không gian nhỏ hơn. Điều gì sẽ xảy ra khi một nguyên tử chạm vào piston di chuyển? Rõ ràng nó tăng tốc độ từ vụ va chạm. Bạn có thể thử nó bằng cách làm bật lại một quả bóng bàn từ một cái vợt di chuyển về phía trước, ví dụ, và bạn sẽ thấy rằng nó đi ra với tốc độ nhiều hơn so với việc va chạm. (Ví dụ đặc biệt: nếu nguyên tử đứng yên và piston chạm vào nó, nó chắc chắn sẽ chuyển động.) Vì vậy, các nguyên tử “nóng hơn” khi chúng bật ra khỏi piston so với trước khi chúng va vào nó. Do đó tất cả các nguyên tử trong bình sẽ có tốc độ tăng lên. Điều này có nghĩa là khi chúng ta nén khí chậm, nhiệt độ của khí tăng lên. Vì vậy, khi nén chậm, khí sẽ tăng nhiệt độ, và dưới sự giãn nở chậm, nó sẽ giảm nhiệt độ.
 
-![https://physicshost.com/wp-content/uploads/2018/07/Fig1-4.png]()
+![](https://physicshost.com/wp-content/uploads/2018/07/Fig1-4.png)
 
 $$\kern20em$$ Hình 1-4
 
